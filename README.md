@@ -10,6 +10,7 @@ Some will be useful. Some will be weird. Some will break spectacularly.
 ---
 
 ## 🪣 The Bucket
+GPU based Conway's Life
 
 Every idea lands here first. I'll sort it later.
 
