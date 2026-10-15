@@ -9,6 +9,14 @@ Some will be useful. Some will be weird. Some will break spectacularly.
 
 ---
 
+## 🪣 The Bucket
+
+Every idea lands here first. I'll sort it later.
+
+| Idea | Suggested by | Notes |
+| --- | --- | --- |
+| | | |
+
 ## 🔜 Up next
 
 | Idea | Suggested by | Notes |
