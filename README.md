@@ -18,6 +18,10 @@ Every idea lands here first. I'll sort it later.
 | GPU based Conway's Life | [@Metaforest](https://x.com/Metaforest) | From the "what should I make first?" post |
 | Port old Windows science app to Linux (no emu) | [@NekoYuki1776](https://x.com/NekoYuki1776) | Orig runs on XP (~650kb); has papers, failed attempts, .exe |
 | Single-file HTML blackjack trainer (Grok vs Gemini) | [@NiX_24J](https://x.com/NiX_24J) | From the "what should I make first?" post |
+| Space Invaders remake mashed with Arkanoid power-ups | [@NiX_24J](https://x.com/NiX_24J) | Lunch Bytes Oct 15 |
+| To-do app that roasts you in BIOS errors | [@itsvlady](https://x.com/itsvlady) | Lunch Bytes Oct 15 |
+| Cursed OS worse than Vista | [@Toobad22](https://x.com/Toobad22) | Lunch Bytes Oct 15 |
+| Fitness tracker with Bluetooth (optional Arduino) | [@mike3k25](https://x.com/mike3k25) | Lunch Bytes Oct 15 |
 
 ## 🔜 Up next
 
