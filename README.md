@@ -17,6 +17,7 @@ Every idea lands here first. I'll sort it later.
 | --- | --- | --- |
 | GPU based Conway's Life | [@Metaforest](https://x.com/Metaforest) | From the "what should I make first?" post |
 | Port old Windows science app to Linux (no emu) | [@NekoYuki1776](https://x.com/NekoYuki1776) | Orig runs on XP (~650kb); has papers, failed attempts, .exe |
+| Single-file HTML blackjack trainer (Grok vs Gemini) | [@NiX_24J](https://x.com/NiX_24J) | From the "what should I make first?" post |
 
 ## 🔜 Up next
 
